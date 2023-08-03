@@ -161,6 +161,10 @@ iframe{
     background-color: color-mix(in srgb, var(--cor-site), #ffffff 20%);
 }
 
+.trailer_video{
+    display: none;
+}
+
 p{
     text-align: justify;
 }
