@@ -13,7 +13,7 @@ html{
 
 #id{
     color: #011126;
-    font-size: 3.5em;
+    font-size: 3.4em;
     font-family: 'Handjet', cursive;
 }
 
@@ -27,7 +27,7 @@ html{
 }
 
 .header_logo{
-    width: 7em;
+    width: 8em;
     margin: 1em;
     border-radius: 5px;
 }
@@ -131,7 +131,7 @@ ul{
 
 
 .trailer h1{
-    font-size: 3.1em;
+    font-size: 4em;
     margin-bottom: 1em;
     font-family: 'Parisienne', cursive;
 }
