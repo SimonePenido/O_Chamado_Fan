@@ -7,6 +7,9 @@
 
 > :construction: Projeto em construção :construction:
 
+<p>Página de fã do filme The Ring - O Chamado, como parte do desafio de aprendizagem da Trilha #ElasNaTech. Instrutora: Gil Chaves. A capacitação foi realizada pela JA Brasil, em parceria com a IBM e CCR S.A..Customizado utilizando recursos básicos de responsividade em HTML5 e CSS3.  
+Deploy no GitHub Pages.<p>
+
 ## Tecnologias Utilizadas
 - ``HTML5``
 -  ``CSS``
